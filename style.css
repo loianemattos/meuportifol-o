@@ -4,8 +4,8 @@
 }
 
 .header {
-    background-color: #F3E1F3;
-    color: black;
+    background-color: #500c50;
+    color: rgb(161, 10, 10);
     display: flex;
     justify-content: space-around;
     align-items: center;
